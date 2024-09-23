@@ -1,0 +1,19 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(135deg, 
+    rgb(6, 10, 22),
+    rgb(15, 6, 119), 
+    rgb(26, 2, 224))
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.logo{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
